@@ -1,0 +1,1799 @@
+[
+    {
+        "name": "Aardvark"
+    },
+    {
+        "name": "Abyssinian"
+    },
+    {
+        "name": "Adelie Penguin"
+    },
+    {
+        "name": "Affenpinscher"
+    },
+    {
+        "name": "Afghan Hound"
+    },
+    {
+        "name": "African Bush Elephant"
+    },
+    {
+        "name": "African Civet"
+    },
+    {
+        "name": "African Clawed Frog"
+    },
+    {
+        "name": "African Forest Elephant"
+    },
+    {
+        "name": "African Palm Civet"
+    },
+    {
+        "name": "African Penguin"
+    },
+    {
+        "name": "African Tree Toad"
+    },
+    {
+        "name": "African Wild Dog"
+    },
+    {
+        "name": "Ainu Dog"
+    },
+    {
+        "name": "Airedale Terrier"
+    },
+    {
+        "name": "Akbash"
+    },
+    {
+        "name": "Akita"
+    },
+    {
+        "name": "Alaskan Malamute"
+    },
+    {
+        "name": "Albatross"
+    },
+    {
+        "name": "Aldabra Giant Tortoise"
+    },
+    {
+        "name": "Alligator"
+    },
+    {
+        "name": "Alpine Dachsbracke"
+    },
+    {
+        "name": "American Bulldog"
+    },
+    {
+        "name": "American Cocker Spaniel"
+    },
+    {
+        "name": "American Coonhound"
+    },
+    {
+        "name": "American Eskimo Dog"
+    },
+    {
+        "name": "American Foxhound"
+    },
+    {
+        "name": "American Pit Bull Terrier"
+    },
+    {
+        "name": "American Staffordshire Terrier"
+    },
+    {
+        "name": "American Water Spaniel"
+    },
+    {
+        "name": "Amur Leopard"
+    },
+    {
+        "name": "Anatolian Shepherd Dog"
+    },
+    {
+        "name": "Angelfish"
+    },
+    {
+        "name": "Ant"
+    },
+    {
+        "name": "Anteater"
+    },
+    {
+        "name": "Antelope"
+    },
+    {
+        "name": "Appenzeller Dog"
+    },
+    {
+        "name": "Arctic Fox"
+    },
+    {
+        "name": "Arctic Hare"
+    },
+    {
+        "name": "Arctic Wolf"
+    },
+    {
+        "name": "Armadillo"
+    },
+    {
+        "name": "Asian Elephant"
+    },
+    {
+        "name": "Asian Giant Hornet"
+    },
+    {
+        "name": "Asian Palm Civet"
+    },
+    {
+        "name": "Asiatic Black Bear"
+    },
+    {
+        "name": "Australian Cattle Dog"
+    },
+    {
+        "name": "Australian Kelpie Dog"
+    },
+    {
+        "name": "Australian Mist"
+    },
+    {
+        "name": "Australian Shepherd"
+    },
+    {
+        "name": "Australian Terrier"
+    },
+    {
+        "name": "Avocet"
+    },
+    {
+        "name": "Axolotl"
+    },
+    {
+        "name": "Aye Aye"
+    },
+    {
+        "name": "Baboon"
+    },
+    {
+        "name": "Bactrian Camel"
+    },
+    {
+        "name": "Badger"
+    },
+    {
+        "name": "Balinese"
+    },
+    {
+        "name": "Banded Palm Civet"
+    },
+    {
+        "name": "Bandicoot"
+    },
+    {
+        "name": "Barb"
+    },
+    {
+        "name": "Barn Owl"
+    },
+    {
+        "name": "Barnacle"
+    },
+    {
+        "name": "Barracuda"
+    },
+    {
+        "name": "Basenji Dog"
+    },
+    {
+        "name": "Basking Shark"
+    },
+    {
+        "name": "Basset Hound"
+    },
+    {
+        "name": "Bat"
+    },
+    {
+        "name": "Bavarian Mountain Hound"
+    },
+    {
+        "name": "Beagle"
+    },
+    {
+        "name": "Bear"
+    },
+    {
+        "name": "Bearded Collie"
+    },
+    {
+        "name": "Bearded Dragon"
+    },
+    {
+        "name": "Beaver"
+    },
+    {
+        "name": "Bedlington Terrier"
+    },
+    {
+        "name": "Beetle"
+    },
+    {
+        "name": "Bengal Tiger"
+    },
+    {
+        "name": "Bernese Mountain Dog"
+    },
+    {
+        "name": "Bichon Frise"
+    },
+    {
+        "name": "Binturong"
+    },
+    {
+        "name": "Bird"
+    },
+    {
+        "name": "Birds Of Paradise"
+    },
+    {
+        "name": "Birman"
+    },
+    {
+        "name": "Bison"
+    },
+    {
+        "name": "Black Rhinoceros"
+    },
+    {
+        "name": "Black Russian Terrier"
+    },
+    {
+        "name": "Black Widow Spider"
+    },
+    {
+        "name": "Bloodhound"
+    },
+    {
+        "name": "Blue Lacy Dog"
+    },
+    {
+        "name": "Blue Whale"
+    },
+    {
+        "name": "Bluetick Coonhound"
+    },
+    {
+        "name": "Bobcat"
+    },
+    {
+        "name": "Bolognese Dog"
+    },
+    {
+        "name": "Bombay"
+    },
+    {
+        "name": "Bongo"
+    },
+    {
+        "name": "Bonobo"
+    },
+    {
+        "name": "Booby"
+    },
+    {
+        "name": "Border Collie"
+    },
+    {
+        "name": "Border Terrier"
+    },
+    {
+        "name": "Bornean Orang-utan"
+    },
+    {
+        "name": "Borneo Elephant"
+    },
+    {
+        "name": "Boston Terrier"
+    },
+    {
+        "name": "Bottlenose Dolphin"
+    },
+    {
+        "name": "Boxer Dog"
+    },
+    {
+        "name": "Boykin Spaniel"
+    },
+    {
+        "name": "Brazilian Terrier"
+    },
+    {
+        "name": "Brown Bear"
+    },
+    {
+        "name": "Budgerigar"
+    },
+    {
+        "name": "Buffalo"
+    },
+    {
+        "name": "Bull Mastiff"
+    },
+    {
+        "name": "Bull Shark"
+    },
+    {
+        "name": "Bull Terrier"
+    },
+    {
+        "name": "Bulldog"
+    },
+    {
+        "name": "Bullfrog"
+    },
+    {
+        "name": "Bumble Bee"
+    },
+    {
+        "name": "Burmese"
+    },
+    {
+        "name": "Burrowing Frog"
+    },
+    {
+        "name": "Butterfly"
+    },
+    {
+        "name": "Butterfly Fish"
+    },
+    {
+        "name": "Caiman"
+    },
+    {
+        "name": "Caiman Lizard"
+    },
+    {
+        "name": "Cairn Terrier"
+    },
+    {
+        "name": "Camel"
+    },
+    {
+        "name": "Canaan Dog"
+    },
+    {
+        "name": "Capybara"
+    },
+    {
+        "name": "Caracal"
+    },
+    {
+        "name": "Carolina Dog"
+    },
+    {
+        "name": "Cassowary"
+    },
+    {
+        "name": "Cat"
+    },
+    {
+        "name": "Caterpillar"
+    },
+    {
+        "name": "Catfish"
+    },
+    {
+        "name": "Cavalier King Charles Spaniel"
+    },
+    {
+        "name": "Centipede"
+    },
+    {
+        "name": "Cesky Fousek"
+    },
+    {
+        "name": "Chameleon"
+    },
+    {
+        "name": "Chamois"
+    },
+    {
+        "name": "Cheetah"
+    },
+    {
+        "name": "Chesapeake Bay Retriever"
+    },
+    {
+        "name": "Chicken"
+    },
+    {
+        "name": "Chihuahua"
+    },
+    {
+        "name": "Chimpanzee"
+    },
+    {
+        "name": "Chinchilla"
+    },
+    {
+        "name": "Chinese Crested Dog"
+    },
+    {
+        "name": "Chinook"
+    },
+    {
+        "name": "Chinstrap Penguin"
+    },
+    {
+        "name": "Chipmunk"
+    },
+    {
+        "name": "Chow Chow"
+    },
+    {
+        "name": "Cichlid"
+    },
+    {
+        "name": "Clouded Leopard"
+    },
+    {
+        "name": "Clown Fish"
+    },
+    {
+        "name": "Clumber Spaniel"
+    },
+    {
+        "name": "Coati"
+    },
+    {
+        "name": "Cockroach"
+    },
+    {
+        "name": "Collared Peccary"
+    },
+    {
+        "name": "Collie"
+    },
+    {
+        "name": "Common Buzzard"
+    },
+    {
+        "name": "Common Frog"
+    },
+    {
+        "name": "Common Loon"
+    },
+    {
+        "name": "Common Toad"
+    },
+    {
+        "name": "Coral"
+    },
+    {
+        "name": "Cottontop Tamarin"
+    },
+    {
+        "name": "Cougar"
+    },
+    {
+        "name": "Cow"
+    },
+    {
+        "name": "Coyote"
+    },
+    {
+        "name": "Crab"
+    },
+    {
+        "name": "Crab-Eating Macaque"
+    },
+    {
+        "name": "Crane"
+    },
+    {
+        "name": "Crested Penguin"
+    },
+    {
+        "name": "Crocodile"
+    },
+    {
+        "name": "Cross River Gorilla"
+    },
+    {
+        "name": "Curly Coated Retriever"
+    },
+    {
+        "name": "Cuscus"
+    },
+    {
+        "name": "Cuttlefish"
+    },
+    {
+        "name": "Dachshund"
+    },
+    {
+        "name": "Dalmatian"
+    },
+    {
+        "name": "Darwin's Frog"
+    },
+    {
+        "name": "Deer"
+    },
+    {
+        "name": "Desert Tortoise"
+    },
+    {
+        "name": "Deutsche Bracke"
+    },
+    {
+        "name": "Dhole"
+    },
+    {
+        "name": "Dingo"
+    },
+    {
+        "name": "Discus"
+    },
+    {
+        "name": "Doberman Pinscher"
+    },
+    {
+        "name": "Dodo"
+    },
+    {
+        "name": "Dog"
+    },
+    {
+        "name": "Dogo Argentino"
+    },
+    {
+        "name": "Dogue De Bordeaux"
+    },
+    {
+        "name": "Dolphin"
+    },
+    {
+        "name": "Donkey"
+    },
+    {
+        "name": "Dormouse"
+    },
+    {
+        "name": "Dragonfly"
+    },
+    {
+        "name": "Drever"
+    },
+    {
+        "name": "Duck"
+    },
+    {
+        "name": "Dugong"
+    },
+    {
+        "name": "Dunker"
+    },
+    {
+        "name": "Dusky Dolphin"
+    },
+    {
+        "name": "Dwarf Crocodile"
+    },
+    {
+        "name": "Eagle"
+    },
+    {
+        "name": "Earwig"
+    },
+    {
+        "name": "Eastern Gorilla"
+    },
+    {
+        "name": "Eastern Lowland Gorilla"
+    },
+    {
+        "name": "Echidna"
+    },
+    {
+        "name": "Edible Frog"
+    },
+    {
+        "name": "Egyptian Mau"
+    },
+    {
+        "name": "Electric Eel"
+    },
+    {
+        "name": "Elephant"
+    },
+    {
+        "name": "Elephant Seal"
+    },
+    {
+        "name": "Elephant Shrew"
+    },
+    {
+        "name": "Emperor Penguin"
+    },
+    {
+        "name": "Emperor Tamarin"
+    },
+    {
+        "name": "Emu"
+    },
+    {
+        "name": "English Cocker Spaniel"
+    },
+    {
+        "name": "English Shepherd"
+    },
+    {
+        "name": "English Springer Spaniel"
+    },
+    {
+        "name": "Entlebucher Mountain Dog"
+    },
+    {
+        "name": "Epagneul Pont Audemer"
+    },
+    {
+        "name": "Eskimo Dog"
+    },
+    {
+        "name": "Estrela Mountain Dog"
+    },
+    {
+        "name": "Falcon"
+    },
+    {
+        "name": "Fennec Fox"
+    },
+    {
+        "name": "Ferret"
+    },
+    {
+        "name": "Field Spaniel"
+    },
+    {
+        "name": "Fin Whale"
+    },
+    {
+        "name": "Finnish Spitz"
+    },
+    {
+        "name": "Fire-Bellied Toad"
+    },
+    {
+        "name": "Fish"
+    },
+    {
+        "name": "Fishing Cat"
+    },
+    {
+        "name": "Flamingo"
+    },
+    {
+        "name": "Flat Coat Retriever"
+    },
+    {
+        "name": "Flounder"
+    },
+    {
+        "name": "Fly"
+    },
+    {
+        "name": "Flying Squirrel"
+    },
+    {
+        "name": "Fossa"
+    },
+    {
+        "name": "Fox"
+    },
+    {
+        "name": "Fox Terrier"
+    },
+    {
+        "name": "French Bulldog"
+    },
+    {
+        "name": "Frigatebird"
+    },
+    {
+        "name": "Frilled Lizard"
+    },
+    {
+        "name": "Frog"
+    },
+    {
+        "name": "Fur Seal"
+    },
+    {
+        "name": "Galapagos Penguin"
+    },
+    {
+        "name": "Galapagos Tortoise"
+    },
+    {
+        "name": "Gar"
+    },
+    {
+        "name": "Gecko"
+    },
+    {
+        "name": "Gentoo Penguin"
+    },
+    {
+        "name": "Geoffroys Tamarin"
+    },
+    {
+        "name": "Gerbil"
+    },
+    {
+        "name": "German Pinscher"
+    },
+    {
+        "name": "German Shepherd"
+    },
+    {
+        "name": "Gharial"
+    },
+    {
+        "name": "Giant African Land Snail"
+    },
+    {
+        "name": "Giant Clam"
+    },
+    {
+        "name": "Giant Panda Bear"
+    },
+    {
+        "name": "Giant Schnauzer"
+    },
+    {
+        "name": "Gibbon"
+    },
+    {
+        "name": "Gila Monster"
+    },
+    {
+        "name": "Giraffe"
+    },
+    {
+        "name": "Glass Lizard"
+    },
+    {
+        "name": "Glow Worm"
+    },
+    {
+        "name": "Goat"
+    },
+    {
+        "name": "Golden Lion Tamarin"
+    },
+    {
+        "name": "Golden Oriole"
+    },
+    {
+        "name": "Golden Retriever"
+    },
+    {
+        "name": "Goose"
+    },
+    {
+        "name": "Gopher"
+    },
+    {
+        "name": "Gorilla"
+    },
+    {
+        "name": "Grasshopper"
+    },
+    {
+        "name": "Great Dane"
+    },
+    {
+        "name": "Great White Shark"
+    },
+    {
+        "name": "Greater Swiss Mountain Dog"
+    },
+    {
+        "name": "Green Bee-Eater"
+    },
+    {
+        "name": "Greenland Dog"
+    },
+    {
+        "name": "Grey Mouse Lemur"
+    },
+    {
+        "name": "Grey Reef Shark"
+    },
+    {
+        "name": "Grey Seal"
+    },
+    {
+        "name": "Greyhound"
+    },
+    {
+        "name": "Grizzly Bear"
+    },
+    {
+        "name": "Grouse"
+    },
+    {
+        "name": "Guinea Fowl"
+    },
+    {
+        "name": "Guinea Pig"
+    },
+    {
+        "name": "Guppy"
+    },
+    {
+        "name": "Hammerhead Shark"
+    },
+    {
+        "name": "Hamster"
+    },
+    {
+        "name": "Hare"
+    },
+    {
+        "name": "Harrier"
+    },
+    {
+        "name": "Havanese"
+    },
+    {
+        "name": "Hawaiian Crow"
+    },
+    {
+        "name": "Hedgehog"
+    },
+    {
+        "name": "Hercules Beetle"
+    },
+    {
+        "name": "Hermit Crab"
+    },
+    {
+        "name": "Heron"
+    },
+    {
+        "name": "Highland Cattle"
+    },
+    {
+        "name": "Himalayan"
+    },
+    {
+        "name": "Hippopotamus"
+    },
+    {
+        "name": "Honey Bee"
+    },
+    {
+        "name": "Horn Shark"
+    },
+    {
+        "name": "Horned Frog"
+    },
+    {
+        "name": "Horse"
+    },
+    {
+        "name": "Horseshoe Crab"
+    },
+    {
+        "name": "Howler Monkey"
+    },
+    {
+        "name": "Human"
+    },
+    {
+        "name": "Humboldt Penguin"
+    },
+    {
+        "name": "Hummingbird"
+    },
+    {
+        "name": "Humpback Whale"
+    },
+    {
+        "name": "Hyena"
+    },
+    {
+        "name": "Ibis"
+    },
+    {
+        "name": "Ibizan Hound"
+    },
+    {
+        "name": "Iguana"
+    },
+    {
+        "name": "Impala"
+    },
+    {
+        "name": "Indian Elephant"
+    },
+    {
+        "name": "Indian Palm Squirrel"
+    },
+    {
+        "name": "Indian Rhinoceros"
+    },
+    {
+        "name": "Indian Star Tortoise"
+    },
+    {
+        "name": "Indochinese Tiger"
+    },
+    {
+        "name": "Indri"
+    },
+    {
+        "name": "Insect"
+    },
+    {
+        "name": "Irish Setter"
+    },
+    {
+        "name": "Irish WolfHound"
+    },
+    {
+        "name": "Jack Russel"
+    },
+    {
+        "name": "Jackal"
+    },
+    {
+        "name": "Jaguar"
+    },
+    {
+        "name": "Japanese Chin"
+    },
+    {
+        "name": "Japanese Macaque"
+    },
+    {
+        "name": "Javan Rhinoceros"
+    },
+    {
+        "name": "Javanese"
+    },
+    {
+        "name": "Jellyfish"
+    },
+    {
+        "name": "Kakapo"
+    },
+    {
+        "name": "Kangaroo"
+    },
+    {
+        "name": "Keel Billed Toucan"
+    },
+    {
+        "name": "Killer Whale"
+    },
+    {
+        "name": "King Crab"
+    },
+    {
+        "name": "King Penguin"
+    },
+    {
+        "name": "Kingfisher"
+    },
+    {
+        "name": "Kiwi"
+    },
+    {
+        "name": "Koala"
+    },
+    {
+        "name": "Komodo Dragon"
+    },
+    {
+        "name": "Kudu"
+    },
+    {
+        "name": "Labradoodle"
+    },
+    {
+        "name": "Labrador Retriever"
+    },
+    {
+        "name": "Ladybug"
+    },
+    {
+        "name": "Leaf-Tailed Gecko"
+    },
+    {
+        "name": "Lemming"
+    },
+    {
+        "name": "Lemur"
+    },
+    {
+        "name": "Leopard"
+    },
+    {
+        "name": "Leopard Cat"
+    },
+    {
+        "name": "Leopard Seal"
+    },
+    {
+        "name": "Leopard Tortoise"
+    },
+    {
+        "name": "Liger"
+    },
+    {
+        "name": "Lion"
+    },
+    {
+        "name": "Lionfish"
+    },
+    {
+        "name": "Little Penguin"
+    },
+    {
+        "name": "Lizard"
+    },
+    {
+        "name": "Llama"
+    },
+    {
+        "name": "Lobster"
+    },
+    {
+        "name": "Long-Eared Owl"
+    },
+    {
+        "name": "Lynx"
+    },
+    {
+        "name": "Macaroni Penguin"
+    },
+    {
+        "name": "Macaw"
+    },
+    {
+        "name": "Magellanic Penguin"
+    },
+    {
+        "name": "Magpie"
+    },
+    {
+        "name": "Maine Coon"
+    },
+    {
+        "name": "Malayan Civet"
+    },
+    {
+        "name": "Malayan Tiger"
+    },
+    {
+        "name": "Maltese"
+    },
+    {
+        "name": "Manatee"
+    },
+    {
+        "name": "Mandrill"
+    },
+    {
+        "name": "Manta Ray"
+    },
+    {
+        "name": "Marine Toad"
+    },
+    {
+        "name": "Markhor"
+    },
+    {
+        "name": "Marsh Frog"
+    },
+    {
+        "name": "Masked Palm Civet"
+    },
+    {
+        "name": "Mastiff"
+    },
+    {
+        "name": "Mayfly"
+    },
+    {
+        "name": "Meerkat"
+    },
+    {
+        "name": "Millipede"
+    },
+    {
+        "name": "Minke Whale"
+    },
+    {
+        "name": "Mole"
+    },
+    {
+        "name": "Molly"
+    },
+    {
+        "name": "Mongoose"
+    },
+    {
+        "name": "Mongrel"
+    },
+    {
+        "name": "Monitor Lizard"
+    },
+    {
+        "name": "Monkey"
+    },
+    {
+        "name": "Monte Iberia Eleuth"
+    },
+    {
+        "name": "Moorhen"
+    },
+    {
+        "name": "Moose"
+    },
+    {
+        "name": "Moray Eel"
+    },
+    {
+        "name": "Moth"
+    },
+    {
+        "name": "Mountain Gorilla"
+    },
+    {
+        "name": "Mountain Lion"
+    },
+    {
+        "name": "Mouse"
+    },
+    {
+        "name": "Mule"
+    },
+    {
+        "name": "Neanderthal"
+    },
+    {
+        "name": "Neapolitan Mastiff"
+    },
+    {
+        "name": "Newfoundland"
+    },
+    {
+        "name": "Newt"
+    },
+    {
+        "name": "Nightingale"
+    },
+    {
+        "name": "Norfolk Terrier"
+    },
+    {
+        "name": "North American Black Bear"
+    },
+    {
+        "name": "Norwegian Forest"
+    },
+    {
+        "name": "Numbat"
+    },
+    {
+        "name": "Nurse Shark"
+    },
+    {
+        "name": "Ocelot"
+    },
+    {
+        "name": "Octopus"
+    },
+    {
+        "name": "Okapi"
+    },
+    {
+        "name": "Old English Sheepdog"
+    },
+    {
+        "name": "Olm"
+    },
+    {
+        "name": "Opossum"
+    },
+    {
+        "name": "Orang-utan"
+    },
+    {
+        "name": "Ostrich"
+    },
+    {
+        "name": "Otter"
+    },
+    {
+        "name": "Oyster"
+    },
+    {
+        "name": "Pademelon"
+    },
+    {
+        "name": "Panther"
+    },
+    {
+        "name": "Parrot"
+    },
+    {
+        "name": "Patas Monkey"
+    },
+    {
+        "name": "Peacock"
+    },
+    {
+        "name": "Pekingese"
+    },
+    {
+        "name": "Pelican"
+    },
+    {
+        "name": "Penguin"
+    },
+    {
+        "name": "Pere Davids Deer"
+    },
+    {
+        "name": "Persian"
+    },
+    {
+        "name": "Pheasant"
+    },
+    {
+        "name": "Pied Tamarin"
+    },
+    {
+        "name": "Pig"
+    },
+    {
+        "name": "Pika"
+    },
+    {
+        "name": "Pike"
+    },
+    {
+        "name": "Pink Fairy Armadillo"
+    },
+    {
+        "name": "Piranha"
+    },
+    {
+        "name": "Platypus"
+    },
+    {
+        "name": "Pointer"
+    },
+    {
+        "name": "Poison Dart Frog"
+    },
+    {
+        "name": "Polar Bear"
+    },
+    {
+        "name": "Pond Skater"
+    },
+    {
+        "name": "Poodle"
+    },
+    {
+        "name": "Pool Frog"
+    },
+    {
+        "name": "Porcupine"
+    },
+    {
+        "name": "Possum"
+    },
+    {
+        "name": "Prawn"
+    },
+    {
+        "name": "Proboscis Monkey"
+    },
+    {
+        "name": "Puffer Fish"
+    },
+    {
+        "name": "Puffin"
+    },
+    {
+        "name": "Pug"
+    },
+    {
+        "name": "Puma"
+    },
+    {
+        "name": "Purple Emperor"
+    },
+    {
+        "name": "Puss Moth"
+    },
+    {
+        "name": "Pygmy Hippopotamus"
+    },
+    {
+        "name": "Pygmy Marmoset"
+    },
+    {
+        "name": "Quail"
+    },
+    {
+        "name": "Quetzal"
+    },
+    {
+        "name": "Quokka"
+    },
+    {
+        "name": "Quoll"
+    },
+    {
+        "name": "Rabbit"
+    },
+    {
+        "name": "Raccoon"
+    },
+    {
+        "name": "Raccoon Dog"
+    },
+    {
+        "name": "Radiated Tortoise"
+    },
+    {
+        "name": "Ragdoll"
+    },
+    {
+        "name": "Rat"
+    },
+    {
+        "name": "Rattlesnake"
+    },
+    {
+        "name": "Red Knee Tarantula"
+    },
+    {
+        "name": "Red Panda"
+    },
+    {
+        "name": "Red Wolf"
+    },
+    {
+        "name": "Red-handed Tamarin"
+    },
+    {
+        "name": "Reindeer"
+    },
+    {
+        "name": "Rhinoceros"
+    },
+    {
+        "name": "River Dolphin"
+    },
+    {
+        "name": "River Turtle"
+    },
+    {
+        "name": "Robin"
+    },
+    {
+        "name": "Rock Hyrax"
+    },
+    {
+        "name": "Rockhopper Penguin"
+    },
+    {
+        "name": "Roseate Spoonbill"
+    },
+    {
+        "name": "Rottweiler"
+    },
+    {
+        "name": "Royal Penguin"
+    },
+    {
+        "name": "Russian Blue"
+    },
+    {
+        "name": "Sabre-Toothed Tiger"
+    },
+    {
+        "name": "Saint Bernard"
+    },
+    {
+        "name": "Salamander"
+    },
+    {
+        "name": "Sand Lizard"
+    },
+    {
+        "name": "Saola"
+    },
+    {
+        "name": "Scimitar-horned Oryx"
+    },
+    {
+        "name": "Scorpion"
+    },
+    {
+        "name": "Scorpion Fish"
+    },
+    {
+        "name": "Sea Dragon"
+    },
+    {
+        "name": "Sea Lion"
+    },
+    {
+        "name": "Sea Otter"
+    },
+    {
+        "name": "Sea Slug"
+    },
+    {
+        "name": "Sea Squirt"
+    },
+    {
+        "name": "Sea Turtle"
+    },
+    {
+        "name": "Sea Urchin"
+    },
+    {
+        "name": "Seahorse"
+    },
+    {
+        "name": "Seal"
+    },
+    {
+        "name": "Serval"
+    },
+    {
+        "name": "Sheep"
+    },
+    {
+        "name": "Shih Tzu"
+    },
+    {
+        "name": "Shrimp"
+    },
+    {
+        "name": "Siamese"
+    },
+    {
+        "name": "Siamese Fighting Fish"
+    },
+    {
+        "name": "Siberian"
+    },
+    {
+        "name": "Siberian Husky"
+    },
+    {
+        "name": "Siberian Tiger"
+    },
+    {
+        "name": "Silver Dollar"
+    },
+    {
+        "name": "Skunk"
+    },
+    {
+        "name": "Sloth"
+    },
+    {
+        "name": "Slow Worm"
+    },
+    {
+        "name": "Snail"
+    },
+    {
+        "name": "Snake"
+    },
+    {
+        "name": "Snapping Turtle"
+    },
+    {
+        "name": "Snowshoe"
+    },
+    {
+        "name": "Snowy Owl"
+    },
+    {
+        "name": "Somali"
+    },
+    {
+        "name": "South China Tiger"
+    },
+    {
+        "name": "Spadefoot Toad"
+    },
+    {
+        "name": "Sparrow"
+    },
+    {
+        "name": "Spectacled Bear"
+    },
+    {
+        "name": "Sperm Whale"
+    },
+    {
+        "name": "Spider Monkey"
+    },
+    {
+        "name": "Spiny Dogfish"
+    },
+    {
+        "name": "Spixs Macaw"
+    },
+    {
+        "name": "Sponge"
+    },
+    {
+        "name": "Squid"
+    },
+    {
+        "name": "Squirrel"
+    },
+    {
+        "name": "Squirrel Monkey"
+    },
+    {
+        "name": "Sri Lankan Elephant"
+    },
+    {
+        "name": "Staffordshire Bull Terrier"
+    },
+    {
+        "name": "Stag Beetle"
+    },
+    {
+        "name": "Starfish"
+    },
+    {
+        "name": "Stellers Sea Cow"
+    },
+    {
+        "name": "Stick Insect"
+    },
+    {
+        "name": "Stingray"
+    },
+    {
+        "name": "Stoat"
+    },
+    {
+        "name": "Striped Rocket Frog"
+    },
+    {
+        "name": "Sumatran Elephant"
+    },
+    {
+        "name": "Sumatran Orang-utan"
+    },
+    {
+        "name": "Sumatran Rhinoceros"
+    },
+    {
+        "name": "Sumatran Tiger"
+    },
+    {
+        "name": "Sun Bear"
+    },
+    {
+        "name": "Swan"
+    },
+    {
+        "name": "Tang"
+    },
+    {
+        "name": "Tapanuli Orang-utan"
+    },
+    {
+        "name": "Tapir"
+    },
+    {
+        "name": "Tarsier"
+    },
+    {
+        "name": "Tasmanian Devil"
+    },
+    {
+        "name": "Tawny Owl"
+    },
+    {
+        "name": "Termite"
+    },
+    {
+        "name": "Tetra"
+    },
+    {
+        "name": "Thorny Devil"
+    },
+    {
+        "name": "Tibetan Mastiff"
+    },
+    {
+        "name": "Tiffany"
+    },
+    {
+        "name": "Tiger"
+    },
+    {
+        "name": "Tiger Salamander"
+    },
+    {
+        "name": "Tiger Shark"
+    },
+    {
+        "name": "Tortoise"
+    },
+    {
+        "name": "Toucan"
+    },
+    {
+        "name": "Tree Frog"
+    },
+    {
+        "name": "Tropicbird"
+    },
+    {
+        "name": "Tuatara"
+    },
+    {
+        "name": "Turkey"
+    },
+    {
+        "name": "Turkish Angora"
+    },
+    {
+        "name": "Uakari"
+    },
+    {
+        "name": "Uguisu"
+    },
+    {
+        "name": "Umbrellabird"
+    },
+    {
+        "name": "Vampire Bat"
+    },
+    {
+        "name": "Vervet Monkey"
+    },
+    {
+        "name": "Vulture"
+    },
+    {
+        "name": "Wallaby"
+    },
+    {
+        "name": "Walrus"
+    },
+    {
+        "name": "Warthog"
+    },
+    {
+        "name": "Wasp"
+    },
+    {
+        "name": "Water Buffalo"
+    },
+    {
+        "name": "Water Dragon"
+    },
+    {
+        "name": "Water Vole"
+    },
+    {
+        "name": "Weasel"
+    },
+    {
+        "name": "Welsh Corgi"
+    },
+    {
+        "name": "West Highland Terrier"
+    },
+    {
+        "name": "Western Gorilla"
+    },
+    {
+        "name": "Western Lowland Gorilla"
+    },
+    {
+        "name": "Whale Shark"
+    },
+    {
+        "name": "Whippet"
+    },
+    {
+        "name": "White Faced Capuchin"
+    },
+    {
+        "name": "White Rhinoceros"
+    },
+    {
+        "name": "White Tiger"
+    },
+    {
+        "name": "Wild Boar"
+    },
+    {
+        "name": "Wildebeest"
+    },
+    {
+        "name": "Wolf"
+    },
+    {
+        "name": "Wolverine"
+    },
+    {
+        "name": "Wombat"
+    },
+    {
+        "name": "Woodlouse"
+    },
+    {
+        "name": "Woodpecker"
+    },
+    {
+        "name": "Woolly Mammoth"
+    },
+    {
+        "name": "Woolly Monkey"
+    },
+    {
+        "name": "Wrasse"
+    },
+    {
+        "name": "Wyoming Toad"
+    },
+    {
+        "name": "X-Ray Tetra"
+    },
+    {
+        "name": "Yak"
+    },
+    {
+        "name": "Yellow-Eyed Penguin"
+    },
+    {
+        "name": "Yorkshire Terrier"
+    },
+    {
+        "name": "Zebra"
+    },
+    {
+        "name": "Zebra Shark"
+    },
+    {
+        "name": "Zebu"
+    },
+    {
+        "name": "Zonkey"
+    },
+    {
+        "name": "Zorse"
+    }
+]

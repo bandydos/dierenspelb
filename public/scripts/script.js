@@ -46,7 +46,6 @@ const checkAccepted = async (newAnimal) => {
     const fetch_res = await fetch(api_url);
     const jsonres = await fetch_res.json();
     for (let i = 0; i < jsonres.length; i++) {
-        console.log(jsonres[i].name)
         if (newAnimal == jsonres[i].name.toLowerCase()) {
             return true;
         }
